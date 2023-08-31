@@ -1,2 +1,2 @@
-# bitcoin-lib
-A simple bitcoin library written in JavaScript.
+course-practice-ts
+codes snippets of learning TypeScript lang~
